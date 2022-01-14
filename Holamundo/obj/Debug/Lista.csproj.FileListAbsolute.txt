@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Desktop\-CURSO--C--b84bb4bf079414315b28c4df6f7a209392762fcc\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\USUARIO\Desktop\-CURSO--C--b84bb4bf079414315b28c4df6f7a209392762fcc\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\USUARIO\Desktop\-CURSO--C--b84bb4bf079414315b28c4df6f7a209392762fcc\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\USUARIO\Desktop\-CURSO--C--b84bb4bf079414315b28c4df6f7a209392762fcc\HolaMundo\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\-CURSO--C--b84bb4bf079414315b28c4df6f7a209392762fcc\HolaMundo\obj\Debug\Lista.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\-CURSO--C--b84bb4bf079414315b28c4df6f7a209392762fcc\HolaMundo\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\-CURSO--C--b84bb4bf079414315b28c4df6f7a209392762fcc\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\USUARIO\Desktop\-CURSO--C--b84bb4bf079414315b28c4df6f7a209392762fcc\HolaMundo\obj\Debug\HolaMundo.pdb
